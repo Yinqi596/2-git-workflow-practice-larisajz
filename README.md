@@ -2,9 +2,9 @@
 
 ## 📝 An Interesting Article: **"You Are Not Google"**  
 
-I recently read an insightful article titled **["You Are Not Google"]([https://oz-nova.github.io/you-are-not-google/](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb))** by **Oz Nova (Bradfield)**. The article challenges the common tendency for software developers to over-engineer systems by trying to implement **Google-scale solutions** for problems that don’t require such complexity.  
+I recently read an insightful article titled **["You Are Not Google"]((https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb))** by **Oz Nova (Bradfield)**. The article challenges the common tendency for software developers to over-engineer systems by trying to implement **Google-scale solutions** for problems that don’t require such complexity.  
 
-🔗 **[Read the Full Article Here]([https://oz-nova.github.io/you-are-not-google/](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb))**  
+🔗 **[Read the Full Article Here](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb))**  
 
 ## 💡 What I Found Interesting  
 
