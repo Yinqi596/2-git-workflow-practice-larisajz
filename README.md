@@ -18,3 +18,6 @@ This article is a great reminder that **engineering should always be pragmatic**
 
 ## Commented by Chuqiao Huang(ch3807):
 Great point! I agree that simplicity is often ignored in software development. Many developers try to use big-tech solutions without really needing them. Your view on focusing on practical and useful engineering is a great reminder. I also find an ariticle that emphasizes the same perspective that nowaday's software engineering needs more pratical and soft skills in order to make a successful project. Well said! 
+
+## Commented by Yinqi Wang(Yinqi596):
+I absolutely agree with your opinion that simplicity is underrated in software engineering, nowdays programmers use complicated tools and algorithms to show their skills, but this is quite unnecessary. Using the most common solutions is a best way to save time and energy and make the programs more readable for everyone else.
